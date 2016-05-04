@@ -1,0 +1,11 @@
+c:\users\mert\documents\visual studio 2015\Projects\PROJ78\PROJ78\bin\Debug\PROJ78.exe.config
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\bin\Debug\PROJ78.exe.config
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\bin\Debug\PROJ78.exe
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\bin\Debug\PROJ78.pdb
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\obj\Debug\PROJ78.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\obj\Debug\PROJ78.exe
+C:\Users\Mert\Documents\GitHub\PROJ78\PROJ78\obj\Debug\PROJ78.pdb
